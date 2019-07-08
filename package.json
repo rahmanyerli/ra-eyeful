@@ -1,0 +1,50 @@
+{
+	"name": "ra-eyeful",
+	"displayName": "Ra Eyeful",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Eyeful",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-eyeful.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-eyeful"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#333639",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark",
+		"dark theme",
+		"vscode dark theme",
+		"ra",
+		"ra eyeful theme",
+		"ra eyeful",
+		"raeyeful",
+		"ra-eyeful",
+		"ra eyeful theme"
+	]
+}
